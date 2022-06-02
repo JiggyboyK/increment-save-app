@@ -1,0 +1,16 @@
+/* body{
+    margin-left: 500px;
+} */
+
+button{
+    color: aliceblue;
+}
+
+#increment-btn{
+    
+    background:red;
+}
+
+#save-btn{
+    background:green;
+}
